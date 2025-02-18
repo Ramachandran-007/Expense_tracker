@@ -209,3 +209,5 @@ Rent,Housing,rent
 Gas,Home,gas
 Grocery,groceries,grocery
 Bus,transportation,bus
+income,food,income
+income,rent,income
